@@ -19,6 +19,7 @@ use Hash;
 use App\Kelengkapan;
 use App\Sliders;
 use Carbon\Carbon;
+
 class HomeController extends Controller
 {
     public function index()
