@@ -22,7 +22,7 @@
 .sticky-box {
   box-shadow: 0 0 5px #000;
   -moz-box-shadow: 0 0 5px #000;
-  -webkit-box-shadow: 0 0 5px #000;
+  -webkit-box-shadow: 0 0 5px #ff0000;
 }
 .search-btn {
     height: 34px;

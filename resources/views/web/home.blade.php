@@ -5,11 +5,11 @@
  <link href="{{asset('theme/owlcarousel/assets/owl.theme.default.min.css')}}" rel="stylesheet" />
  <style type="text/css">
     .main-content {
-        position: relative;
+        position: flex;
     }
     .custom-nav {
         position: absolute;
-        top: 30%;
+        top: 300%;
         left: 0;
         right: 0;
     }
